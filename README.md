@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Andrew Duong</h1>
-<h3 align="center">Student at De Anza College</h3>
-<h2 align="center">Incoming Transfer Student at UCLA for Computer Science & Linguistics</h2>
+<h3 align="center">Student at UCLA studying Computer Science & Linguistics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aandrewduong&label=Profile%20views&color=0e75b6&style=flat" alt="aandrewduong" /> </p>
 <h3 align="left">Connect with me:</h3>
