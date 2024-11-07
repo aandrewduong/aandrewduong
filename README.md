@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andrew and I'm majoring in Computer Science and Linguistics, at UCLA</h2>
+<h2 align="left">Hey 👋! My name is Andrew and I'm majoring in Computer Science and Linguistics at UCLA</h2>
 
 ###
 
