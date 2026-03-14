@@ -17,3 +17,5 @@ My hobbies include:
 - LinkedIn: [aandrewduong](https://www.linkedin.com/in/aandrewduong)
 - Substack: [andrewduong](https://andrewduong.substack.com)
 - Email: aandrewduong@protonmail.com
+
+- My latest Substack post: [https://andrewduong.substack.com/p/what-a-transfer-student-actually](https://andrewduong.substack.com/p/what-a-transfer-student-actually)
