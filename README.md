@@ -15,5 +15,5 @@ My hobbies include:
 ### Contact
 
 - LinkedIn: [aandrewduong](https://www.linkedin.com/in/aandrewduong)
-- Substack: [aandrewduong](https://aandrewduong.substack.com)
+- Substack: [andrewduong](https://andrewduong.substack.com)
 - Email: aandrewduong@protonmail.com
