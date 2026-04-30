@@ -1,21 +1,18 @@
-# Hey, I'm Andrew 👋
+# hey, i'm andrew
 
-I'm a Software Engineer at Illumio and a Computer Science and Linguistics student at UCLA (Class of 2026).
+i'm a software engineer at illumio, a cybersecurity company based in sunnyvale, bay area
 
-I enjoy building automation that eliminates repetitive work and helps teams move faster. At Illumio, I've worked on CI/CD pipelines, internal tooling, and AI-powered tools. Outside of my engineering role, I built a self-funded e-commerce business to $625K+ in revenue by creating custom Python and Selenium workflows for sourcing, pricing, and inventory operations.
+my mission is to build software that leaves an meaningful impact on users worldwide.
 
-My hobbies include:
+i have 1 year of professional swe experience. i'm also an undergrad student UCLA and majoring in computer science and linguistics. i'm class of 2026 and will be graduating in june
 
-- Reading financial literature
-- Writing articles
-- Strength training
-- Learning about new products and ideas
-- Collaborating with and teaching others
+i strongly advocate self entrepreneurship
+i'm interested in cryptocurrency, blockchains as i believe in decentralized exchanges
+i enjoy working with others, learning from different perspectives, and exploring new ideas.
+if you have an idea reach out to me!
 
-### Contact
+outside of tech, i focus on self improvement. i enjoy gardening, hiking, sports, reading, hanging out with friends/family to keep my mind off tech. it's great to disconnect from screens!
+i believe I can become a better version of myself each day, and that belief compels me to keep improving.
 
-- LinkedIn: [aandrewduong](https://www.linkedin.com/in/aandrewduong)
-- Substack: [andrewduong](https://andrewduong.substack.com)
-- Email: aandrewduong@protonmail.com
-
-- My latest Substack post: [https://andrewduong.substack.com/p/what-a-transfer-student-actually](https://andrewduong.substack.com/p/what-a-transfer-student-actually)
+email: aandrewduong@protonmail.com
+my linkedin: https://www.linkedin.com/in/aandrewduong
