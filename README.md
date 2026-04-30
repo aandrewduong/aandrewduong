@@ -1,6 +1,6 @@
 # hey, i'm andrew
 
-i'm a software engineer at illumio, a cybersecurity company based in sunnyvale, bay area
+i'm a software engineer at illumio, a cybersecurity company based in sunnyvale, ca
 
 my mission is to build software that leaves an meaningful impact on users worldwide.
 
