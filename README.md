@@ -1,18 +1,14 @@
 # hey, i'm andrew
+i'm a full-stack software engineer at illumio, a cybersecurity company in sunnyvale, ca. 
+i sit in the intersection between product (documentation) and engineering.
+my main stack is typescript/react and golang, and right now i'm also learning more about IT infrastructure and tools like terraform.
 
-i'm a software engineer at illumio, a cybersecurity company based in sunnyvale, ca
+i'm naturally entrepreneurial and love the early stage of an idea, when it's still just a question worth chasing. i'm also into crypto and decentralized systems, not for the speculation, but because i think building infrastructure that doesn't rely on a central authority is genuinely fascinating. we're still early.
 
-my mission is to build software that leaves an meaningful impact on users worldwide.
-
-i have 1 year of professional swe experience. i'm also an undergrad student UCLA and majoring in computer science and linguistics. i'm class of 2026 and will be graduating in june
-
-i strongly advocate self entrepreneurship
-i'm interested in cryptocurrency, blockchains as i believe in decentralized exchanges
-i enjoy working with others, learning from different perspectives, and exploring new ideas.
-if you have an idea reach out to me!
-
-outside of tech, i focus on self improvement. i enjoy gardening, hiking, sports, reading, hanging out with friends/family to keep my mind off tech. it's great to disconnect from screens!
-i believe I can become a better version of myself each day, and that belief compels me to keep improving.
+i have 1 year of professional SWE experience and i'm an undergrad at UCLA majoring in computer science and linguistics, graduating june 2026.
+outside of tech, i garden, hike, play sports, read, and hang out with friends and family. keeps me grounded and makes the time i do spend building feel more intentional.
+if you have an idea or just want to think something through, reach out!
 
 email: aandrewduong@protonmail.com
-my linkedin: https://www.linkedin.com/in/aandrewduong
+linkedin: linkedin.com/in/aandrewduong
+
