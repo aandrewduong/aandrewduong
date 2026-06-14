@@ -8,7 +8,7 @@ my main stack is **typescript/react** and **golang**, and lately i've been learn
 
 i'm naturally entrepreneurial and really enjoy the early stage of an idea, when it's still messy and mostly just a question worth chasing.
 
-i'm also interested in crypto and decentralized systems — not really for the speculation, but because i think building infrastructure that doesn't depend on a central authority is genuinely fascinating. we're still early.
+i'm also interested in crypto and decentralized systems not really for the speculation, but because i think building infrastructure that doesn't depend on a central authority is genuinely fascinating. we're still early.
 
 outside of tech, i garden, hike, play sports, read, and spend time with friends and family. keeps me grounded and makes the time i do spend building feel more intentional.
 
