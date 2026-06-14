@@ -2,7 +2,7 @@
 
 i'm a full-stack software engineer at **Illumio**, a cybersecurity company in sunnyvale, ca. i work somewhere between product, documentation, and engineering — basically helping make technical things easier to build, use, and understand.
 
-i graduated from **UCLA** with a degree in **computer science and linguistics in june 2026 **.
+i graduated from **UCLA** with a degree in computer science and linguistics in june 2026.
 
 my main stack is **typescript/react** and **golang**, and lately i've been learning more about infrastructure, devops-y workflows, and tools like **terraform**.
 
