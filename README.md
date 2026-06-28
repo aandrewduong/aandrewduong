@@ -1,18 +1,21 @@
-# hey, i'm andrew 👋
+# Hey, I'm Andrew 👋
 
-i'm a full-stack software engineer at **Illumio**, a cybersecurity company in sunnyvale, ca. i work somewhere between product, documentation, and engineering — basically helping make technical things easier to build, use, and understand.
+I'm a Software Engineer at **Illumio**, a cybersecurity company in Sunnyvale, CA, where I live in the space between product and engineering and try to make hard things feel obvious.
 
-i graduated from **UCLA** with a degree in computer science and linguistics in june 2026.
+I graduated from **UCLA** in June 2026 with a bachelor's in Computer Science and Linguistics, which is a fancy way of saying I'm fascinated by how systems and people make meaning.
 
-my main stack is **typescript/react** and **golang**, and lately i've been learning more about infrastructure, devops-y workflows, and tools like **terraform**.
+### What I Build
+Frontend is my home base, but I work across the full stack and follow problems wherever they lead. Lately that's pulled me down into the plumbing: infrastructure, architecture, and DevOps workflows like **Terraform**. Turns out the boring layers are where the magic actually happens.
 
-i'm naturally entrepreneurial and really enjoy the early stage of an idea, when it's still messy and mostly just a question worth chasing.
+### What Gets Me Going
+I'm wired for the early stage, that messy first moment when an idea is still just a question worth chasing. No roadmap, no certainty, just a hunch and the itch to find out.
 
-i'm also interested in crypto and decentralized systems not really for the speculation, but because i think building infrastructure that doesn't depend on a central authority is genuinely fascinating. we're still early.
+I'm also deep into cryptocurrencies and decentralized systems, and not for the hype. What hooks me is the idea that you can build infrastructure that answers to no one in particular. That's a genuinely wild thing to be alive for.
 
-outside of tech, i garden, hike, play sports, read, and spend time with friends and family. keeps me grounded and makes the time i do spend building feel more intentional.
+### Off the Keyboard
+I garden, read, hike, chase down new things to learn, and spend real time with friends and family. It keeps me grounded, and it makes the hours I do spend building feel like a choice instead of a default.
 
-if you have an idea, want to collaborate, or just want to think something through, reach out!
+### Let's Build Something
+Got an idea, want to collaborate, or just need a sounding board? Reach out!
 
-* email: [aandrewduong@protonmail.com](mailto:aandrewduong@protonmail.com)
-* linkedin: [linkedin.com/in/aandrewduong](https://linkedin.com/in/aandrewduong)
+aandrewduong@ucla.edu
