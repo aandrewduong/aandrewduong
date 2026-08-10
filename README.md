@@ -2,7 +2,7 @@
 
 # Andrew Duong
 
-Full-Stack Developer @ Illumio
+Full-Stack Developer
 
 </div>
 
