@@ -24,12 +24,6 @@ I'm interested in **the frontend as a systems problem**, where architecture, bui
 
 ---
 
-## Projects
-
-### Tripwire
-Two-stage secret detection across repositories using pre-commit hooks and full-history CI scans with SARIF reporting, paired with a Go service that automatically rotates leaked AWS IAM keys on Kubernetes.
----
-
 ## Education
 
 B.A. Computer Science and Linguistics, **UCLA**
