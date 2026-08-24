@@ -10,7 +10,7 @@ Full-Stack Engineer
 
 ## About
 
-I'm a full-stack engineer with a frontend focus, currently at **Illumio**, building React and TypeScript microfrontend apps and the build and test infrastructure underneath them.
+I'm a full-stack engineer with a frontend focus, building React and TypeScript microfrontend apps and the build and test infrastructure underneath them.
 I'm interested in **the frontend as a systems problem**, where architecture, build performance, and API surface design decide what the experience is allowed to be.
 
 ---
