@@ -2,7 +2,7 @@
 
 # Andrew Duong
 
-Full-Stack Developer
+Full-Stack Engineer
 
 </div>
 
@@ -10,15 +10,15 @@ Full-Stack Developer
 
 ## About
 
-I'm a full-stack developer with a frontend focus, currently at **Illumio**, building React and TypeScript microfrontend apps and the build and test infrastructure underneath them.
+I'm a full-stack engineer with a frontend focus, currently at **Illumio**, building React and TypeScript microfrontend apps and the build and test infrastructure underneath them.
 I'm interested in **the frontend as a systems problem**, where architecture, build performance, and API surface design decide what the experience is allowed to be.
 
 ---
 
 ## What I Work On
 
-- Microfrontends, module federation, and monorepo architecture
-- Build and test pipelines (Rspack, SWC, Rstest, Vitest, Playwright)
+- Microfrontends, Module Federation, and monorepo architecture
+- Build and test pipelines (Webpack, Jest/Vitest, Cypress, Playwright)
 - API platforms and developer-facing tooling
 - Distributed systems and backend services in Go
 
@@ -27,8 +27,7 @@ I'm interested in **the frontend as a systems problem**, where architecture, bui
 ## Projects
 
 ### Tripwire
-Two-stage secret detection across repositories, wired into pre-commit hooks and full-history CI scans with SARIF reporting, paired with a Go service that rotates leaked AWS IAM keys on Kubernetes.
-
+Two-stage secret detection across repositories using pre-commit hooks and full-history CI scans with SARIF reporting, paired with a Go service that automatically rotates leaked AWS IAM keys on Kubernetes.
 ---
 
 ## Education
