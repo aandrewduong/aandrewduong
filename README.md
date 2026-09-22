@@ -21,6 +21,7 @@ I'm interested in **the frontend as a systems problem**, where architecture, bui
 - Build and test pipelines (Webpack, Jest/Vitest, Cypress, Playwright)
 - API platforms and developer-facing tooling
 - Distributed systems and backend services in Go
+- Building AI agents
 
 ---
 
