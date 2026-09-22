@@ -17,12 +17,11 @@ I'm interested in **the frontend as a systems problem**, where architecture, bui
 
 ## What I Work On
 
-- Microfrontends, Module Federation, and monorepo architecture
-- Build and test pipelines (Webpack, Jest/Vitest, Cypress, Playwright)
-- API platforms and developer-facing tooling
-- Distributed systems and backend services in Go
-- Building AI agents
-
+* Microfrontend architecture with React, TypeScript, and Module Federation
+* Monorepo tooling, build performance, and automated testing
+* API platforms and developer-facing tools
+* Backend services and distributed systems in Go
+* AI agents and workflow automation
 ---
 
 ## Education
